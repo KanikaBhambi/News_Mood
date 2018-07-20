@@ -1,5 +1,5 @@
-
-# Analysis
+# News Sentiments
+### Analysis
 - BBCWorld, CBSNews and NYTimes has the most negative Vader sentiment analysis.
 - CNN and FoxNews has an overall positive Vader scores.CNN has the highest score with 0.08,the FoxNews has 0.01.
 - The New York Times has a negative score of -0.1. Even though its score is negative, the New York Times had the scores closes to zero. It has the news mood with the closest neutral sentiment.
